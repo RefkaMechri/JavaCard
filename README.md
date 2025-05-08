@@ -33,3 +33,6 @@ JavaCard Development Kit
 Java (JDK 8 ou équivalent)
 
 Simulateur JCIDE ou GlobalPlatformPro
+
+![Bank Simulation Image](https://github.com/RefkaMechri/JavaCard/blob/main/Bank.png)
+
